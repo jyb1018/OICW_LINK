@@ -1,1 +1,1 @@
-# Rtudy
+#Algorithm_Study
