@@ -9,6 +9,7 @@ LINK 2020년 알고리즘 스터디 주간 문제 리스트
 
 * 중급 상어의 저녁식사 [1671](https://www.acmicpc.net/problem/1671)
 * 상급 이사 [17371](https://www.acmicpc.net/problem/1671)
+___
 # 2주차
 ## 총 4문제
 * 포도주 시식 [2156](https://www.acmicpc.net/problem/2156)
@@ -18,7 +19,8 @@ LINK 2020년 알고리즘 스터디 주간 문제 리스트
 * 회의실배정 [1931](https://www.acmicpc.net/problem/1931)
 
 * 괄호 [9012](https://www.acmicpc.net/problem/9012)
-# 3주제
+___
+# 3주차
 ## 총 4문제
 * 무한 수열 [1351](https://www.acmicpc.net/problem/1351)
 
@@ -28,3 +30,4 @@ LINK 2020년 알고리즘 스터디 주간 문제 리스트
 
 * 파일 합치기 [11066](https://www.acmicpc.net/problem/11066)
 
+___
