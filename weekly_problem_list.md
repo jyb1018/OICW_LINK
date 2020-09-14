@@ -31,3 +31,10 @@ ___
 * 파일 합치기 [11066](https://www.acmicpc.net/problem/11066)
 
 ___
+
+# 4주차
+## 총 3문제
+* 앱 [7579](https://www.acmicpc.net/problem/7579)
+* 쿼드트리 [1992](https://www.acmicpc.net/problem/1992)
+* 팩토리얼 0의 갯수 [1676](https://www.acmicpc.net/problem/1676)
+___
