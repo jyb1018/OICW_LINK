@@ -1,5 +1,7 @@
 //틀렸다는데 반례를 못찾겠는데;
 
+//제발! 제출할 때는! 출력 구문이 섞여 있는지 확인하자 맨이야
+
 #include <iostream>
 #include <cstring>
 
